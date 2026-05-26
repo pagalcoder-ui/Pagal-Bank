@@ -1,5 +1,5 @@
 
-# 🏦 PAGAL BANK OF INDIA
+# 🏦PAGAL BANK OF INDIA
 
 C++ + SQLite3 se bana hai  
 Features:
